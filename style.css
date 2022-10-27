@@ -1,5 +1,5 @@
  body {
-     background: #ff0015e1 
+     background: #3a3636f6 
  }
  p {
      text-align: center
@@ -7,5 +7,5 @@
  }
 
  em strong {
-     color: rgb(26, 27, 26);
+     color: rgba(26, 27, 26, 0);
  }
